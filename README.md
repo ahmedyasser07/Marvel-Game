@@ -11,8 +11,8 @@
   backend of the project while the third one was the frontend of the project. Note that any media file found outside the project folder was used in the implementation.
   
  ### Team Mates
- Marwan Ayman Farouk - marwanayman2810@gmail.com
- Mohamed Amgad El-Sheikha - mohamedamgad222002@gmail.com
+Marwan Ayman Farouk - marwanayman2810@gmail.com
+Mohamed Amgad El-Sheikha - mohamedamgad222002@gmail.com
  
  ## Game Description
  ### Intro
